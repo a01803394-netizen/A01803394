@@ -4,8 +4,8 @@ docenas=donas//12
 print(donas, "//12=", docenas)
 
 EJERCICIO 2
-num1=input("escribe un número")
-num2=input("escribe otro número")
+num1=input("escribe un numero")
+num2=input("escribe otro numero")
 residuo= num1 % num2
 print(num1, "%", num2, "=", residuo)
 
